@@ -2,7 +2,7 @@
   "name": "VueOnRailsTemplate",
   "private": true,
   "scripts": {
-    "start": "foreman start"
+    "dev": "bundle exec foreman start"
   },
   "dependencies": {
     "@rails/webpacker": "^3.0.2",
