@@ -17,7 +17,7 @@
 
 ```console
 $ bundle install
-$ npm install
-$ npm start
+$ yarn install
+$ yarn dev
 ```
 - and access `localhost:3000`
