@@ -2,9 +2,9 @@
 - This is a package to use Vue.js on Rails
 
 ## Version
-- Ruby 2.4.1
-- Rails 5.1.4
-- Vue 2.5.9
+- Ruby 2.5.1
+- Rails 5.2.1
+- Vue 2.5.17
 - Vuex 3.0.1
 - vue-router 3.0.1
 

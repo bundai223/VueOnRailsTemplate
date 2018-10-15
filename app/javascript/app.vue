@@ -7,14 +7,14 @@
 </template>
 
 <script>
-import HeaderComponent from './components/shared/header';
-import FooterComponent from './components/shared/footer';
+import HeaderComponent from './components/shared/header'
+import FooterComponent from './components/shared/footer'
 
 export default {
   components: {
     HeaderComponent,
-    FooterComponent,
-  },
+    FooterComponent
+  }
 }
 </script>
 

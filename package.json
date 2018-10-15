@@ -5,16 +5,15 @@
     "dev": "bundle exec foreman start"
   },
   "dependencies": {
-    "@rails/webpacker": "^3.0.2",
-    "axios": "^0.17.1",
-    "coffeescript": "1.12.7",
-    "vue": "^2.5.9",
-    "vue-loader": "^13.5.0",
+    "@rails/webpacker": "3.5",
+    "axios": "^0.18.0",
+    "vue": "^2.5.17",
+    "vue-loader": "14.2.2",
     "vue-router": "^3.0.1",
-    "vue-template-compiler": "^2.5.9",
+    "vue-template-compiler": "^2.5.17",
     "vuex": "^3.0.1"
   },
   "devDependencies": {
-    "webpack-dev-server": "^2.9.5"
+    "webpack-dev-server": "^2.11.2"
   }
 }
